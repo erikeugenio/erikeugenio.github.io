@@ -18,13 +18,15 @@ Experiência de 10 anos no agronegócio. Atuação na precificação de grãos n
 Educação
 ======
 
+---
+
 * Bacharel em Sistemas de Informação, Universidade Luterana do Brasil (2018)
 * MBA em Agronegócios, Esalq/USP (2022 - Previsto)
 
 Experiência Profissional
 ======
 
-
+---
 
 *    Junho/2020 - Corteva Agriscience, Barueri - SP
   
@@ -64,12 +66,16 @@ Experiência Profissional
 
 # Idiomas
 
+---
+
 * Inglês Intermediario
 
 
 
 Skills e Informações Adicionais
 ======
+
+---
 
 * Conhecimentos avançados em pacote office, programação VBA e PowerBI;
 * Conhecimentos intermediários em programação em Python e SQL;
