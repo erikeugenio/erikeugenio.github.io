@@ -38,9 +38,7 @@ Experiência Profissional
 
 * **Junho/2013 - Fevereiro/2014** - Agrex do Brasil, Goiatuba - GO<br>Função: Analista de Estoques<br>
 
-* **Maio/2009 - Junho/2013** - Caramuru Alimentos, Itumbiara - GO
-  
-  Função: Assistente Administrativo Jr<br><br>
+* **Maio/2009 - Junho/2013** - Caramuru Alimentos, Itumbiara - GO<br>Função: Assistente Administrativo Jr<br><br>
 
 # Idiomas
 
@@ -56,3 +54,13 @@ Skills e Informações Adicionais
 * Conhecimentos avançados em pacote office, programação VBA e PowerBI;
 * Conhecimentos intermediários em programação em Python e SQL;
 * Conhecimentos avançados em SAP ERP.
+
+
+
+
+
+
+
+```xml
+<img src="https://cdn-icons-png.flaticon.com/512/786/786331.png" alt="drawing" width="200"/>
+```
