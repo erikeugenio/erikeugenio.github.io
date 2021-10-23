@@ -9,51 +9,68 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+# Resumo
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+---
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Experiência de 10 anos no agronegócio. Atuação na precificação de grãos no mercado interno e externo e  nos processos de originação e exportação de grãos. Conhecimentos em administração de riscos,  contabilidade gerencial, análise de resultados, instrumentos de hedge e derivativos. Expertise na elaboração  e análise de relatórios gerenciais e na extração de manipulação de dados. Conhecimentos avançados em  Excel, programação em VBA, Python e SQL.
 
-Publications
+Educação
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+* Bacharel em Sistemas de Informação, Universidade Luterana do Brasil (2018)
+* MBA em Agronegócios, Esalq/USP (2022 - Previsto)
+
+Experiência Profissional
+======
+
+
+
+*    Junho/2020 - Corteva Agriscience, Barueri - SP
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  Função: Especialista em Barter
+
+
+
+* Julho/2018 - Maio/2020 - Agrex do Brasil, Goiânia - GO
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  Função: Especialista em Originação
+
+
+
+* Julho/2015 - Julho/2018 - Agrex do Brasil, Goiânia - GO
   
-Service and leadership
+  Função: Especialista em Gestão de Riscos
+
+
+
+* Fevereiro/2014 - Junho/2015 - Agrex do Brasil, Goiânia - GO
+  
+  Função: Analista de Planejamento e Controle
+
+
+
+* Junho/2013 - Fevereiro/2014 - Agrex do Brasil, Goiatuba - GO
+  
+  Função: Analista de Estoques
+
+
+
+* Maio/2009 - Junho/2013 - Caramuru Alimentos, Itumbiara - GO
+  
+  Função: Assistente Administrativo Jr
+
+
+
+# Idiomas
+
+* Inglês Intermediario
+
+
+
+Skills e Informações Adicionais
 ======
-* Currently signed in to 43 different slack teams
+
+* Conhecimentos avançados em pacote office, programação VBA e PowerBI;
+* Conhecimentos intermediários em programação em Python e SQL;
+* Conhecimentos avançados em SAP ERP.
