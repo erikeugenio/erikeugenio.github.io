@@ -28,9 +28,7 @@ Experiência Profissional
 
 ---
 
-*    **Junho/2020** - Corteva Agriscience, Barueri - SP<br>Função: Especialista em Barter
-  
-  <br>
+*    **Junho/2020** - Corteva Agriscience, Barueri - SP<br>Função: Especialista em Barter<br>
 
 * **Julho/2018 - Maio/2020** - Agrex do Brasil, Goiânia - GO<br>Função: Especialista em Originação
   
