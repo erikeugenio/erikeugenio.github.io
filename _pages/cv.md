@@ -32,37 +32,41 @@ Experiência Profissional
   
   Função: Especialista em Barter
   
-  
+  <br><br>
 
 * Julho/2018 - Maio/2020 - Agrex do Brasil, Goiânia - GO
   
   Função: Especialista em Originação
   
+  <br>
   
+  <br>
 
 * Julho/2015 - Julho/2018 - Agrex do Brasil, Goiânia - GO
   
   Função: Especialista em Gestão de Riscos
   
+  <br>
   
+  <br>
 
 * Fevereiro/2014 - Junho/2015 - Agrex do Brasil, Goiânia - GO
   
   Função: Analista de Planejamento e Controle
   
-  
+  <br><br>
 
 * Junho/2013 - Fevereiro/2014 - Agrex do Brasil, Goiatuba - GO
   
   Função: Analista de Estoques
   
-  
+  <br><br>
 
 * Maio/2009 - Junho/2013 - Caramuru Alimentos, Itumbiara - GO
   
   Função: Assistente Administrativo Jr
   
-  
+  <br><br>
 
 # Idiomas
 
