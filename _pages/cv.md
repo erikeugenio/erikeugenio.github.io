@@ -30,27 +30,17 @@ Experiência Profissional
 
 *    **Junho/2020** - Corteva Agriscience, Barueri - SP<br>Função: Especialista em Barter<br>
 
-* **Julho/2018 - Maio/2020** - Agrex do Brasil, Goiânia - GO<br>Função: Especialista em Originação
-  
-  <br>
+* **Julho/2018 - Maio/2020** - Agrex do Brasil, Goiânia - GO<br>Função: Especialista em Originação<br>
 
-* **Julho/2015 - Julho/2018** - Agrex do Brasil, Goiânia - GO<br>Função: Especialista em Gestão de Riscos
-  
-  <br>
+* **Julho/2015 - Julho/2018** - Agrex do Brasil, Goiânia - GO<br>Função: Especialista em Gestão de Riscos<br>
 
-* **Fevereiro/2014 - Junho/2015** - Agrex do Brasil, Goiânia - GO<br>Função: Analista de Planejamento e Controle
-  
-  <br>
+* **Fevereiro/2014 - Junho/2015** - Agrex do Brasil, Goiânia - GO<br>Função: Analista de Planejamento e Controle<br>
 
-* **Junho/2013 - Fevereiro/2014** - Agrex do Brasil, Goiatuba - GO<br>Função: Analista de Estoques
-  
-  <br>
+* **Junho/2013 - Fevereiro/2014** - Agrex do Brasil, Goiatuba - GO<br>Função: Analista de Estoques<br>
 
 * **Maio/2009 - Junho/2013** - Caramuru Alimentos, Itumbiara - GO
   
-  Função: Assistente Administrativo Jr
-  
-  <br><br>
+  Função: Assistente Administrativo Jr<br><br>
 
 # Idiomas
 
