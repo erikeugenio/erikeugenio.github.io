@@ -59,6 +59,14 @@ Python:        <img title="" src="https://cdn-icons-png.flaticon.com/512
 
 
 
+| Tables   | Are           |
+| -------- |:-------------:|
+| col 1 is | left-aligned  |
+| col 2 is | centered      |
+| col 3 is | right-aligned |
+
+
+
 # Informações Adicionais
 
 - Conhecimentos avançados em pacote office, programação VBA e PowerBI;
