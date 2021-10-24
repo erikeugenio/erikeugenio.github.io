@@ -51,7 +51,13 @@ Habilidades Técnicas
 
 ---
 
+<table>
+
 Python:        <img title="" src="https://cdn-icons-png.flaticon.com/512/786/786331.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/786/786331.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/786/786331.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/1828/1828970.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/1828/1828970.png" alt="" width="20"><br>SQL:            <img title="" src="https://cdn-icons-png.flaticon.com/512/786/786331.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/786/786331.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/1828/1828970.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/1828/1828970.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/1828/1828970.png" alt="" width="20">
+
+</table>
+
+
 
 # Informações Adicionais
 
