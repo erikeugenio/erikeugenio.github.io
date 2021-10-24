@@ -7,8 +7,27 @@ redirect_from:
   - /resume
 ---
 
-
 {% include base_path %}
+
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
+
+
+```xml
+| Time         | Length        | Speed              | Mass         |
+| ------------ | ------------- | ------------------ | ------------ |
+| -Millisecond | Millimetre    | Kilometre per hour | Milligram    |
+| Second       | Centimetre    | Foot per second    | Gram         |
+| Minute       | Inch          | Miles per hour     | Ounce        |
+```
+
+
+
+
 
 # Resumo
 
@@ -55,7 +74,6 @@ Habilidades Técnicas
 Python:           <img title="" src="https://cdn-icons-png.flaticon.com/512/786/786331.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/786/786331.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/786/786331.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/1828/1828970.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/1828/1828970.png" alt="" width="20">     <br>
 VBA:                <img title="" src="https://cdn-icons-png.flaticon.com/512/786/786331.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/786/786331.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/786/786331.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/1828/1828970.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/1828/1828970.png" alt="" width="20">     <br>
 SQL:                <img title="" src="https://cdn-icons-png.flaticon.com/512/786/786331.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/786/786331.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/1828/1828970.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/1828/1828970.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/1828/1828970.png" alt="" width="20">     <br>
-
 
 # Informações Adicionais
 
