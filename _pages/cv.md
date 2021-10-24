@@ -46,21 +46,17 @@ Experiência Profissional
 
 * Inglês Intermediario
 
-Skills e Informações Adicionais
+Habilidades
 ======
 
 ---
 
-* Conhecimentos avançados em pacote office, programação VBA e PowerBI;
-* Conhecimentos intermediários em programação em Python e SQL;
-* Conhecimentos avançados em SAP ERP.
+Python:  <img title="" src="https://cdn-icons-png.flaticon.com/512/786/786331.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/786/786331.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/786/786331.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/1828/1828970.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/1828/1828970.png" alt="" width="20">
 
+SQL:        <img title="" src="https://cdn-icons-png.flaticon.com/512/786/786331.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/786/786331.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/1828/1828970.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/1828/1828970.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/1828/1828970.png" alt="" width="20">
 
+# Informações Adicionais
 
-
-
-
-
-```xml
-<img src="https://cdn-icons-png.flaticon.com/512/786/786331.png" alt="drawing" width="200"/>
-```
+- Conhecimentos avançados em pacote office, programação VBA e PowerBI;
+- Conhecimentos intermediários em programação em Python e SQL;
+- Conhecimentos avançados em SAP ERP.
