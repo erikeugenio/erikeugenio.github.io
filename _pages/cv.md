@@ -15,8 +15,6 @@ td, th, table {
 }
 </style>
 
-
-
 # Resumo
 
 ---
@@ -59,16 +57,13 @@ Habilidades Técnicas
 
 ---
 
-Python:           <img title="" src="https://cdn-icons-png.flaticon.com/512/786/786331.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/786/786331.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/786/786331.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/1828/1828970.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/1828/1828970.png" alt="" width="20">     <br>VBA:                <img title="" src="https://cdn-icons-png.flaticon.com/512/786/786331.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/786/786331.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/786/786331.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/1828/1828970.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/1828/1828970.png" alt="" width="20">     <br>SQL:                <img title="" src="https://cdn-icons-png.flaticon.com/512/786/786331.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/786/786331.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/1828/1828970.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/1828/1828970.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/1828/1828970.png" alt="" width="20">     <br>
-
-|             |            |
-| ----------- | ---------- |
-| Python 	  | <img title="" src="https://cdn-icons-png.flaticon.com/512/786/786331.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/786/786331.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/786/786331.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/1828/1828970.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/1828/1828970.png" alt="" width="20">  |
-| VBA      	  | <img title="" src="https://cdn-icons-png.flaticon.com/512/786/786331.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/786/786331.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/786/786331.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/1828/1828970.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/1828/1828970.png" alt="" width="20"> |
-| SQL         | <img title="" src="https://cdn-icons-png.flaticon.com/512/786/786331.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/786/786331.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/1828/1828970.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/1828/1828970.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/1828/1828970.png" alt="" width="20">       |
 
 
-
+|        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Python | <img title="" src="https://cdn-icons-png.flaticon.com/512/786/786331.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/786/786331.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/786/786331.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/1828/1828970.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/1828/1828970.png" alt="" width="20">   |
+| VBA    | <img title="" src="https://cdn-icons-png.flaticon.com/512/786/786331.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/786/786331.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/786/786331.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/1828/1828970.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/1828/1828970.png" alt="" width="20">   |
+| SQL    | <img title="" src="https://cdn-icons-png.flaticon.com/512/786/786331.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/786/786331.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/1828/1828970.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/1828/1828970.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/1828/1828970.png" alt="" width="20"> |
 
 # Informações Adicionais
 
