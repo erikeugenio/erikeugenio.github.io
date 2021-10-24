@@ -46,26 +46,14 @@ Experiência Profissional
 
 * Inglês Intermediario
 
+
+
 Habilidades Técnicas
 ======
 
 ---
 
-<table>
-
-Python:        <img title="" src="https://cdn-icons-png.flaticon.com/512/786/786331.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/786/786331.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/786/786331.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/1828/1828970.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/1828/1828970.png" alt="" width="20"><br>SQL:            <img title="" src="https://cdn-icons-png.flaticon.com/512/786/786331.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/786/786331.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/1828/1828970.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/1828/1828970.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/1828/1828970.png" alt="" width="20">
-
-</table>
-
-
-
-| Tables   | Are           |
-| -------- |:-------------:|
-| col 1 is | left-aligned  |
-| col 2 is | centered      |
-| col 3 is | right-aligned |
-
-
+Python:        <img title="" src="https://cdn-icons-png.flaticon.com/512/786/786331.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/786/786331.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/786/786331.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/1828/1828970.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/1828/1828970.png" alt="" width="20">     <br>SQL:              <img title="" src="https://cdn-icons-png.flaticon.com/512/786/786331.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/786/786331.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/1828/1828970.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/1828/1828970.png" alt="" width="20"> <img title="" src="https://cdn-icons-png.flaticon.com/512/1828/1828970.png" alt="" width="20">         <br>
 
 # Informações Adicionais
 
