@@ -16,7 +16,8 @@ td {
 
 th {
     border: none!important;
-    width: 40px;
+    width: 10px;
+    height: 100px;
 }
 
 table {
