@@ -10,13 +10,17 @@ redirect_from:
 {% include base_path %}
 
 <style>
-td, th {
+td {
     border: none!important;
+}
+
+th {
+    border: none!important;
+    width: 70px;
 }
 
 table {
     border: none!important;
-    width: 50%;
 }
 </style>
 
