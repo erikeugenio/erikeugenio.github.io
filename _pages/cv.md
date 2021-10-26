@@ -12,16 +12,12 @@ redirect_from:
 <style>
 td {
     border: none!important;
-}
-
-th {
-    border: none!important;
-    width: 10px;
-    height: 100px;
+    width: 50px;
 }
 
 table {
     border: none!important;
+    width: 50%;
 }
 </style>
 
