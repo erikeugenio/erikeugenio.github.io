@@ -17,7 +17,7 @@ td {
 
 table {
     border: none!important;
-    width: 50%;
+    width: 30%;
 }
 </style>
 
